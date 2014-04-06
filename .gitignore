@@ -1,0 +1,3 @@
+$ d ~/.ssh
+$ ls -al
+# Lists the files in your .ssh directory
